@@ -1,12 +1,14 @@
+//go:build synctest
+
 package try
 
 import (
 	"testing"
-	"testing/synctest"
 	"time"
 )
 
-func Test(t *testing.T) {
+func Test2(t *testing.T) {
+	println("123")
 	synctest.Run(func() {
 		before := time.Now()
 		time.Sleep(time.Second)
@@ -14,5 +16,6 @@ func Test(t *testing.T) {
 		if d := after.Sub(before); d != time.Second {
 			t.Fatalf("took %v", d)
 		}
+		t.Log("done")
 	})
 }
