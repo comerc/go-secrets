@@ -1,3 +1,5 @@
+package try
+
 import (
 	"testing"
 	"testing/synctest"
