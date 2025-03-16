@@ -1,9 +1,8 @@
-//go:build synctest
-
 package try
 
 import (
 	"testing"
+	"testing/synctest"
 	"time"
 )
 
