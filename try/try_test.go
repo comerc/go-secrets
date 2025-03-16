@@ -1,5 +1,3 @@
-//go:build synctest
-
 package try
 
 import (
