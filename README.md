@@ -1,4 +1,4 @@
-# yandex
+# go-secrets
 
 ## Почему Go?
 
