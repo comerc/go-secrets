@@ -1,4 +1,4 @@
-#golang #runtime #garbage_collection #finalizer #memory_management #programming #go #example #resource_management #cleanup
+#go #runtime #garbage_collection #finalizer #memory_management #programming #example #resource_management #cleanup
 
 # Финализаторы в Golang: runtime.SetFinalizer
 

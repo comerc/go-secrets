@@ -1,4 +1,4 @@
-#separateVariable #golang #testing #goroutine #scope #raceCondition #concurrency #errorHandling #readability #maintainability
+#separateVariable #go #testing #goroutine #scope #raceCondition #concurrency #errorHandling #readability #maintainability
 
 # Разбор использования отдельной переменной `serveErr` в Go тестах
 

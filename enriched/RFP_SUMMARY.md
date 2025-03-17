@@ -1,4 +1,4 @@
-#RequestForProposal #RFP #Summary #GPT #GopherClub #NLP #ChatAnalysis #TextSummarization #Go #Golang
+#RequestForProposal #RFP #Summary #GPT #GopherClub #NLP #ChatAnalysis #TextSummarization #go
 
 # Обработка запроса на создание сводки (RFP) - SUMMARY
 

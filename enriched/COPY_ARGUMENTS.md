@@ -1,4 +1,4 @@
-#functionArguments #go #programming #pointers #slices #memory #copying #passbyvalue #golang
+#functionArguments #go #programming #pointers #slices #memory #copying #passbyvalue
 
 # Аргументы функций в Go: Копирование и его последствия
 

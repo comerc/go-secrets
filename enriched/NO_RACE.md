@@ -1,4 +1,4 @@
-#datarace #go #concurrency #race_detector #programming #golang #example #infinite_loop #scheduler #goroutine
+#datarace #go #concurrency #race_detector #programming #example #infinite_loop #scheduler #goroutine
 
 # Пример гонки данных в Go, которую `-race` может не обнаружить
 

@@ -1,4 +1,4 @@
-#golang #go #oop #interface #getter #encapsulation #design #pattern #code #example
+#go #oop #interface #getter #encapsulation #design #pattern #code #example
 
 # Инкапсуляция доступа к данным в Go с использованием интерфейсов
 

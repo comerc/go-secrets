@@ -1,4 +1,4 @@
-#golang #go_1_24 #reflection #unsafe #pointer #interface #comparator #address #comparison #panic
+#go_1_24 #reflection #unsafe #pointer #interface #comparator #address #comparison #panic
 
 # Разбор кода с паникой и исправление Comparator
 

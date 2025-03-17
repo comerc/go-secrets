@@ -1,4 +1,4 @@
-#golang #go #http #client #scope #variable #shadowing #error #initialization #debugging #tracing
+#go #http #client #scope #variable #shadowing #error #initialization #debugging #tracing
 
 # Проблема инициализации http.Client в Go при трассировке
 

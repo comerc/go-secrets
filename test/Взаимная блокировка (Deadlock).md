@@ -1,4 +1,4 @@
-#concurrency #deadlock #golang #multithreading #synchronization
+#concurrency #deadlock #go #multithreading #synchronization
 
 # Взаимная блокировка (Deadlock)
 

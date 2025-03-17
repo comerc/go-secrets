@@ -1,4 +1,4 @@
-#golang #go #types #methods #pointers #interfaces #Stringer #compiletime #runtime #typeassertion
+#go #types #methods #pointers #interfaces #Stringer #compiletime #runtime #typeassertion
 
 # Методы для значений и указателей в Go
 

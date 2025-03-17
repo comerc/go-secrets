@@ -1,4 +1,4 @@
-#algorithms #mergedsortedlists #heaps #golang #datastructures
+#algorithms #mergedsortedlists #heaps #go #datastructures
 
 # Слияние k сортированных списков
 

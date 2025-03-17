@@ -1,4 +1,4 @@
-#golang #memory #alignment #padding #benchmark #cache #optimization #performance #struct #slice
+#go #memory #alignment #padding #benchmark #cache #optimization #performance #struct #slice
 
 # Оптимизация использования кэша и выравнивание данных в Go
 

@@ -1,4 +1,4 @@
-#dataStructures #heap #golang #algorithms #priorityQueue
+#dataStructures #heap #go #algorithms #priorityQueue
 
 # Куча (Heap) в Go
 

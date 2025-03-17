@@ -1,4 +1,4 @@
-#grpc #golang #protobuf #rpc #microservices #distributed_systems #http2 #api #cross_platform #programming
+#grpc #go #protobuf #rpc #microservices #distributed_systems #http2 #api #cross_platform #programming
 
 # Использование gRPC в Go
 

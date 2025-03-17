@@ -1,4 +1,4 @@
-#removeDuplicates #algorithms #golang #arrays #inPlace #optimization #uniqueElements #timeComplexity #spaceComplexity #programming
+#removeDuplicates #algorithms #go #arrays #inPlace #optimization #uniqueElements #timeComplexity #spaceComplexity #programming
 
 # Удаление дубликатов в массиве Go
 

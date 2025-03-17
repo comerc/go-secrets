@@ -1,4 +1,4 @@
-#golang #string #comparison #algorithm #sorting #hashmap #tradeoff #space_complexity #time_complexity #mutability
+#go #string #comparison #algorithm #sorting #hashmap #tradeoff #space_complexity #time_complexity #mutability
 
 # Сравнение строк в Golang: Алгоритмический подход
 

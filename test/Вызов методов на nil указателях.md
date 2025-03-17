@@ -1,4 +1,4 @@
-#golang #pointers #methods #nil #error-handling
+#go #pointers #methods #nil #error-handling
 
 # Вызов методов на nil указателях в Go
 

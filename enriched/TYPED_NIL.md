@@ -1,4 +1,4 @@
-#golang #pointers #nil #comparison #interfaces #types #static_typing #dynamic_typing #go_1_24 #equality
+#go #pointers #nil #comparison #interfaces #types #static_typing #dynamic_typing #go_1_24 #equality
 
 # Сравнение указателей и интерфейсов с nil в Golang
 

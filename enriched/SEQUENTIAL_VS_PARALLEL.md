@@ -1,4 +1,4 @@
-#go #golang #mergesort #parallelism #concurrency #algorithms #benchmarking #optimization #goroutines #sync
+#go #mergesort #parallelism #concurrency #algorithms #benchmarking #optimization #goroutines #sync
 
 # Оптимизация параллельной сортировки слиянием в Go
 

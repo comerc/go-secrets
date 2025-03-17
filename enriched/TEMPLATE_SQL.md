@@ -1,4 +1,4 @@
-#go #testcontainers #postgres #golang #testing #database #docker #singleton #reuse #migrations
+#go #testcontainers #postgres #testing #database #docker #singleton #reuse #migrations
 
 # Переиспользование контейнера PostgreSQL в тестах с Testcontainers-go
 

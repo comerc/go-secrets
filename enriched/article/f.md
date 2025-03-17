@@ -1,4 +1,4 @@
-#go #arrays #merging #algorithms #heap #priority_queue #data_structures #sorting #software_engineering #golang
+#go #arrays #merging #algorithms #heap #priority_queue #data_structures #sorting #software_engineering #go
 
 # Слияние K отсортированных массивов
 

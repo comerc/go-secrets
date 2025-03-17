@@ -1,4 +1,4 @@
-#concurrency #livelock #golang #deadlock #synchronization
+#concurrency #livelock #go #deadlock #synchronization
 
 # Живая блокировка (Livelock) в многопоточном программировании
 

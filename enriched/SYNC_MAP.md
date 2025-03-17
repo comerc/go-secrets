@@ -1,4 +1,4 @@
-#concurrency #go #synchronization #map #mutex #goroutine #racecondition #threadsafe #syncMap #golang
+#concurrency #go #synchronization #map #mutex #goroutine #racecondition #threadsafe #syncMap
 
 # Синхронизация доступа к map в Go
 

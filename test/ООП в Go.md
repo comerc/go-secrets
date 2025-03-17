@@ -1,4 +1,4 @@
-#golang #oop #programming #go #objectoriented
+#go #oop #programming #go #objectoriented
 
 # ООП в Go: особенности и реализация
 

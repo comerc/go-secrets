@@ -1,4 +1,4 @@
-#concurrency #starvation #deadlock #golang #performance
+#concurrency #starvation #deadlock #go #performance
 
 # Голодание (Starvation) в многопоточных системах
 

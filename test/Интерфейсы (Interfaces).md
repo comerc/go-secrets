@@ -1,4 +1,4 @@
-#golang #interfaces #typeAssertion #typeSwitch #any
+#go #interfaces #typeAssertion #typeSwitch #any
 
 # Интерфейсы и работа с типами в Go
 

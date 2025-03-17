@@ -1,4 +1,4 @@
-#go #testing #benchmarking #memory #allocation #pointers #optimization #performance #structs #golang
+#go #testing #benchmarking #memory #allocation #pointers #optimization #performance #structs
 
 # Оптимизация выделения памяти в Go на примере структуры с указателем
 

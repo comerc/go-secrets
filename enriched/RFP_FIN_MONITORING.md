@@ -1,4 +1,4 @@
-#investment #trading #automation #parsing #sentimentAnalysis #telegram #golang #AI #dataAggregation #spam
+#investment #trading #automation #parsing #sentimentAnalysis #telegram #go #AI #dataAggregation #spam
 
 # Автоматизация сбора и анализа инвестиционной информации
 

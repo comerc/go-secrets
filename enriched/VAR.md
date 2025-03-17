@@ -1,4 +1,4 @@
-#go #nil #pointer #type #initialization #zero_value #structure #conversion #golang #typed_nil
+#go #nil #pointer #type #initialization #zero_value #structure #conversion #typed_nil
 
 # Получение типизированного nil для пользовательского типа в Go
 

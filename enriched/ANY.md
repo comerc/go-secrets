@@ -1,4 +1,4 @@
-#golang #go #generics #types #type_constraints #interfaces #any #type_assertions #type_switch #programming
+#go #generics #types #type_constraints #interfaces #any #type_assertions #type_switch #programming
 
 # Обработка различных типов в Go: несколько подходов
 

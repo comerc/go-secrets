@@ -1,4 +1,4 @@
-#go #golang #concurrency #channels #generators #programming #patterns #goroutines #iteration #example
+#go #concurrency #channels #generators #programming #patterns #goroutines #iteration #example
 
 # Пример функции-генератора на Go
 

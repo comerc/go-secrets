@@ -1,4 +1,4 @@
-#go #golang #http #io #connection #reuse #close #read #body #transport
+#go #http #io #connection #reuse #close #read #body #transport
 
 # Переиспользование HTTP-соединений в Go
 

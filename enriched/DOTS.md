@@ -1,4 +1,4 @@
-#golang #go #variadic_functions #slices #arrays #spread_operator #unpacking #interview #question #gotcha
+#go #variadic_functions #slices #arrays #spread_operator #unpacking #interview #question #gotcha
 
 # Задачка с собеседования про вариативные функции и слайсы в Go
 

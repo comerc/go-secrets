@@ -1,4 +1,4 @@
-#golang #go #context #ticker #loop #select #concurrency #channels #timeout #error_handling
+#go #context #ticker #loop #select #concurrency #channels #timeout #error_handling
 
 # Обработка контекста и тикера в бесконечном цикле Go
 

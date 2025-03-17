@@ -1,4 +1,4 @@
-#dataStructures #sets #golang
+#dataStructures #sets #go
 
 # Множества (Sets) в Go
 

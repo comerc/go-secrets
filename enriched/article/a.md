@@ -1,4 +1,4 @@
-#golang #algorithms #complexity #strings #optimization #bigO #hashmap #bitManipulation #linearTime #quadraticTime
+#go #algorithms #complexity #strings #optimization #bigO #hashmap #bitManipulation #linearTime #quadraticTime
 
 # Оптимизация алгоритмов поиска пересечений в строках на Golang
 

@@ -1,4 +1,4 @@
-#concurrency #raceCondition #multithreading #golang #programming
+#concurrency #raceCondition #multithreading #go #programming
 
 # Состояние гонки (Race Condition)
 

@@ -1,4 +1,4 @@
-#go #http #timeout #transport #tcp #tls #golang #network #programming #optimization
+#go #http #timeout #transport #tcp #tls #network #programming #optimization
 
 # Настройка HTTP-таймаутов и оптимизация производительности в Go
 

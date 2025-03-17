@@ -1,4 +1,4 @@
-#go #golang #break #select #switch #loop #label #controlflow #concurrency #channels
+#go #break #select #switch #loop #label #controlflow #concurrency #channels
 
 # Оператор `break` в Go: `switch`, `select` и циклы
 

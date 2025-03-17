@@ -1,4 +1,4 @@
-#golang #slices #memory #functions #operations
+#go #slices #memory #functions #operations
 
 # Слайсы в Go: передача, операции и поведение
 

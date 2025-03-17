@@ -1,6 +1,6 @@
 #runtimeGosched
 
-#go #goroutine #concurrency #scheduler #runtime #parallelism #programming #golang #multithreading #cooperativeMultitasking
+#goroutine #concurrency #scheduler #runtime #parallelism #programming #go #multithreading #cooperativeMultitasking
 
 # Использование runtime.Gosched() в Go
 

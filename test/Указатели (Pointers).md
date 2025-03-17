@@ -1,4 +1,4 @@
-#golang #pointers #programming #memory #references
+#go #pointers #programming #memory #references
 
 # Указатели в Go
 

@@ -1,4 +1,4 @@
-#golang #map #key #struct #value #memory #comparison #hashing #equality #go
+#go #map #key #struct #value #memory #comparison #hashing #equality
 
 # Сравнение структур в Go в качестве ключей map
 

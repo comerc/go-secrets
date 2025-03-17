@@ -1,4 +1,4 @@
-#go #errors #error_handling #comparison #type_assertion #golang
+#go #errors #error_handling #comparison #type_assertion
 
 # Разница между errors.Is() и errors.As() в Go
 

@@ -1,4 +1,4 @@
-#golang #tuples #dataStructures #programming #goBasics
+#go #tuples #dataStructures #programming #goBasics
 
 # Кортежи в Go: альтернативные подходы
 

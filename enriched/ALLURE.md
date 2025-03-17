@@ -1,4 +1,4 @@
-#go #testing #allure #reports #integration #golang #xunit #customization #testframeworks #community
+#go #testing #allure #reports #integration #xunit #customization #testframeworks #community
 
 # Интеграция Allure Test Report с Go
 

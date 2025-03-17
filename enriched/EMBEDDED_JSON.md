@@ -1,4 +1,4 @@
-#golang #go #json #marshal #unmarshal #embedded #fields #anonymous #struct #workaround #time
+#go #json #marshal #unmarshal #embedded #fields #anonymous #struct #workaround #time
 
 # Обход встраивания полей с реализацией Marshaler/Unmarshaler
 

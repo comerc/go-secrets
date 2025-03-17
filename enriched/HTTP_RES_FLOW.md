@@ -1,4 +1,4 @@
-#go #http #server #timeout #handler #tls #go_1_24 #networking #golang #programming
+#go #http #server #timeout #handler #tls #go_1_24 #networking #programming
 
 # Настройки тайм-аутов HTTP-сервера в Go
 

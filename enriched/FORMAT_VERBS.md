@@ -1,4 +1,4 @@
-#formatSpecifiers #go #golang #programming #printf #fmt #types #formatting #strings #pointers
+#formatSpecifiers #go #programming #printf #fmt #types #formatting #strings #pointers
 
 # Спецификаторы Формата в Go: Детальный Разбор
 

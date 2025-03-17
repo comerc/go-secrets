@@ -1,4 +1,4 @@
-#go #struct #embedding #anonymous_fields #composition #inheritance #golang #types #oop #programming
+#go #struct #embedding #anonymous_fields #composition #inheritance #types #oop #programming
 
 # Встраивание структур в Go
 

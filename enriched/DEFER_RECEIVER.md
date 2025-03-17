@@ -1,4 +1,4 @@
-#golang #go #defer #receiver #pointer #struct #method #execution #scope #evaluation
+#go #defer #receiver #pointer #struct #method #execution #scope #evaluation
 
 # Отложенный вызов метода и изменение структуры
 

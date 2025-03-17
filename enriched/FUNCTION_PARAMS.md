@@ -1,4 +1,4 @@
-#golang #go #pass_by_value #pointers #structs #functions #parameters #memory #aliasing #scope
+#go #pass_by_value #pointers #structs #functions #parameters #memory #aliasing #scope
 
 # Передача параметров по значению в Go
 

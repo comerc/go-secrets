@@ -1,4 +1,4 @@
-#golang #programming #proverbs #bestPractices #codingPrinciples
+#go #programming #proverbs #bestPractices #codingPrinciples
 
 # Пословицы Go (Go Proverbs)
 

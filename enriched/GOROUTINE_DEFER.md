@@ -1,4 +1,4 @@
-#goroutines #go #concurrency #errgroup #resource_management #context #channels #patterns #synchronization #golang
+#goroutines #go #concurrency #errgroup #resource_management #context #channels #patterns #synchronization
 
 # Управление горутинами и ресурсами в Go
 

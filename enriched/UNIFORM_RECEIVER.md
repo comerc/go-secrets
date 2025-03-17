@@ -1,4 +1,4 @@
-#receiverTypesMixing #go #golang #methods #receivers #pointers #values #time #immutability #interfaces #compatibility
+#receiverTypesMixing #go #methods #receivers #pointers #values #time #immutability #interfaces #compatibility
 
 # Смешивание типов получателей в Go
 

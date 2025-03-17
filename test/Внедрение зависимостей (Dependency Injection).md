@@ -1,4 +1,4 @@
-#GoLang #DependencyInjection #InversionOfControl #DesignPatterns #SoftwareArchitecture
+#go #DependencyInjection #InversionOfControl #DesignPatterns #SoftwareArchitecture
 
 # Внедрение зависимостей (Dependency Injection) в Go
 

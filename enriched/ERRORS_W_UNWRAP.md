@@ -1,6 +1,6 @@
 #goErrorHandling
 
-#go #errors #wrapping #unwrapping #fmt #errorHandling #golang #programming #example #error
+#go #errors #wrapping #unwrapping #fmt #errorHandling #programming #example #error
 
 # Обработка ошибок в Go: Wrapping и Unwrapping
 

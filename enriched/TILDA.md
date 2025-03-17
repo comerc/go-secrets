@@ -1,4 +1,4 @@
-#golang #generics #type_constraints #tilde #interface #custom_types #programming #go #go_1_18 #go_1_21
+#go #generics #type_constraints #tilde #interface #custom_types #programming #go_1_18 #go_1_21
 
 # Ограничения типов и тильда в Go Generics
 

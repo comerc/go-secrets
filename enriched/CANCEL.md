@@ -1,4 +1,4 @@
-#goroutines #concurrency #context #go #golang #programming #parallelism #synchronization #cancellation #signals
+#goroutines #concurrency #context #go #programming #parallelism #synchronization #cancellation #signals
 
 # Одновременный запуск горутин с прерыванием
 

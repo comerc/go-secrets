@@ -1,4 +1,4 @@
-#golang #unsafe #slices #optimization #benchmark #generics #memory #pointer #performance #comparison
+#go #unsafe #slices #optimization #benchmark #generics #memory #pointer #performance #comparison
 
 # Сравнение производительности функций для работы со срезами в Go
 
