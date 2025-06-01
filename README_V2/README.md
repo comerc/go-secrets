@@ -7,6 +7,8 @@
 
 Это матерный язык в мире языков программирования, где простыми выразительными средствами можно сказать больше, чем на родном языке. Плюс gofmt снимает ограничения с выбором редактора.
 
+GoLang == Highload. 
+
 - [Дзен Go](https://habr.com/ru/companies/vk/articles/490340/)
 - [The Zen of Go](https://the-zen-of-go.netlify.app/)
 - [Изучите X за Y минут Где X=Go](https://learnxinyminutes.com/docs/ru-ru/go-ru/)
