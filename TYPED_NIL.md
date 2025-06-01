@@ -18,3 +18,35 @@ println(data == nil)
 	println(try == nil)         // false
 	println(try == (*int)(nil)) // true
 ```
+
+---
+
+можно нарваться на такую ошибку:
+
+```go
+package main
+
+type MyObject struct {
+}
+
+func (*MyObject) SomeMethod() {}
+
+func fn1(myObject *MyObject) {
+	fn2(myObject)
+}
+
+type MyObjectInterface interface {
+	SomeMethod()
+}
+
+func fn2(myObjectInterface MyObjectInterface) {
+	println(myObjectInterface)
+	if myObjectInterface != nil {
+		println(true)
+	}
+}
+
+func main() {
+	fn1(nil)
+}
+```
