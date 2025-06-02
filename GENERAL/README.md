@@ -1,5 +1,3 @@
-# yandex
-
 ```table-of-contents
 ```
 (Установить расширение `Automatic Table Of Contents`)
