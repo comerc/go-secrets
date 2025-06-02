@@ -1,4 +1,4 @@
-#algorithm #complexity #dataStructures #bigONotation #computerScience
+#algorithms #complexity #dataStructures #bigONotation #computerScience
 
 # Алгоритмическая сложность и O-нотация
 
