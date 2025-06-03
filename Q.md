@@ -109,7 +109,7 @@
 - Автоскалирование, health checks
 
 **REST**
-- HTTP методы (GET/POST/PUT/DELETE), stateless
+- HTTP методы (GET/POST/PUT/DELETE/OPTION), stateless
 - Ресурсы как URL, JSON/XML для данных
 - Статус коды, idempotency
 
