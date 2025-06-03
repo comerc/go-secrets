@@ -282,4 +282,5 @@
 // fuzzing-тесты https://habr.com/ru/companies/selectel/articles/709248/
 // testable examples in Go https://go.dev/blog/examples
 // но я не нашёл применения для examples, [go-snap](https://github.com/gkampitakis/go-snaps) круче.
+// GoLang поддерживает множественное встраивание
 ```
