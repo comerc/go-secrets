@@ -252,6 +252,9 @@ func (b *PullBroadcaster) Broadcast(msg interface{}) {
     // Уведомляем всех ожидающих горутин
     b.cond.Broadcast()
 
+    // Уведомляем одну горутину (альтернатива Broadcast)
+    // b.cond.Signal()
+
     // Сбрасываем флаг после небольшой задержки
     go func() {
         time.Sleep(time.Millisecond)
@@ -260,6 +263,7 @@ func (b *PullBroadcaster) Broadcast(msg interface{}) {
         b.mu.Unlock()
     }()
 }
+
 
 // Close закрывает broadcaster
 func (b *PullBroadcaster) Close() {

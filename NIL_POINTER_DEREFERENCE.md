@@ -28,41 +28,4 @@ func main() {
 }
 ```
 
-## Способ проверки
-
-```go
-// gorules/gorules.go
-//go:build ruleguard
-
-package gorules
-
-import "github.com/quasilyte/go-ruleguard/dsl"
-
-// Запрещает разименование nil-указателей
-func forbidNilPointerDeref(m dsl.Matcher) {
-	m.Match(`*$ptr`).
-		Where(m["ptr"].Text != "nil").
-		Report(`possible nil pointer dereference in $ptr; add nil check before dereferencing`).
-		At(m["ptr"])
-}
-```
-
-```bash
-$ go install github.com/quasilyte/go-ruleguard/cmd/ruleguard@latest
-$ ruleguard -rules ./gorules/gorules.go .
-```
-
-```yml
-# .golangci.yml
-version: "2"
-linters:
-  enable:
-    - gocritic
-  settings:
-    gocritic:
-      enabled-checks:
-        - ruleguard
-      settings:
-        ruleguard:
-          rules: ./gorules/gorules.go
-```
+> nilaway помогает выявлять второй случай, но не первый.
