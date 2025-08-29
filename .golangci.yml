@@ -1,0 +1,7 @@
+linters-settings:
+  ruleguard:
+    rules:
+      - "./_try/ruleguard_rules.go"
+linters:
+  enable:
+    - ruleguard

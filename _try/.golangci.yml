@@ -1,0 +1,11 @@
+version: "2"
+linters:
+  enable:
+    - gocritic
+  settings:
+    gocritic:
+      enabled-checks:
+        - ruleguard
+      settings:
+        ruleguard:
+          rules: ./gorules/gorules.go
